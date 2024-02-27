@@ -1,0 +1,298 @@
+/* By > www.userali.ir */
+
+@font-face {
+	font-family: 'Avenir Next Cyr Ultra';
+	src: url('../fonts/LxV0AU8CyiAO.eot');
+	src: local('Avenir Next Cyr Ultra Light'), local('AvenirNextCyr-UltraLight'),
+		url('../fonts/LxV0AU8CyiAO.eot#iefix') format('embedded-opentype'),
+		url('../fonts/v5VGWdUdlJWM.woff') format('woff'),
+		url('../fonts/00elBgTozDBf.ttf') format('truetype');
+	font-weight: 200;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir Next Cyr';
+	src: url('../fonts/CC3Zkg3a9slb.eot');
+	src: local('Avenir Next Cyr Heavy'), local('AvenirNextCyr-Heavy'),
+		url('../fonts/CC3Zkg3a9slb.eot#iefix') format('embedded-opentype'),
+		url('../fonts/zUC7tfxEvJXW.woff') format('woff'),
+		url('../fonts/2g8qrS4IlWiy.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HCo Gotham';
+	src:url('../fonts/B88HO3f88c7w.woff2') format('woff2'),
+		url('../fonts/5pDiGLHrRbsD.woff') format('woff');
+	font-weight: 100;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HCo Gotham';
+	src:url('../fonts/My4vgctORnhI.woff2') format('woff2'),
+		url('../fonts/LQSq56DmM4cb.woff') format('woff');
+	font-weight: 100;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'HCo Gotham';
+	src:url('../fonts/ZScXDdVZgyka.woff2') format('woff2'),
+		url('../fonts/8X91I0GVpmaL.woff') format('woff');
+	font-weight: 200;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HCo Gotham';
+	src:url('../fonts/5cJmd1riwHHD.woff2') format('woff2'),
+		url('../fonts/44LMKfWwt80A.woff') format('woff');
+	font-weight: 200;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'HCo Gotham';
+	src:url('../fonts/URhRYlUx0ijx.woff2') format('woff2'),
+		url('../fonts/Nqq7oItiHjKE.woff') format('woff');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HCo Gotham';
+	src:url('../fonts/TiCc5KPWTG3s.woff2') format('woff2'),
+		url('../fonts/uGMM4uLya8un.woff') format('woff');
+	font-weight: 300;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'HCo Gotham';
+	src:url('../fonts/8mdl1wLbZD3Q.woff2') format('woff2'),
+		url('../fonts/POJt5L57khPy.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HCo Gotham';
+	src:url('../fonts/hsOf4gD3TWaR.woff2') format('woff2'),
+		url('../fonts/k7yOo9jFf4CR.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'HCo Gotham';
+	src:url('../fonts/iutd6jZW7FAW.woff2') format('woff2'),
+		url('../fonts/7WZbeyFLiqJv.woff') format('woff');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HCo Gotham';
+	src:url('../fonts/Di7wKKcCGij6.woff2') format('woff2'),
+		url('../fonts/wWD6FgdGDI3q.woff') format('woff');
+	font-weight: 500;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'HCo Gotham';
+	src:url('../fonts/LHxHEQPRPzJF.woff2') format('woff2'),
+		url('../fonts/iGm77cq69RFP.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HCo Gotham';
+	src:url('../fonts/W8Ofsop3nwx0.woff2') format('woff2'),
+		url('../fonts/ntvXjL4vKWe6.woff') format('woff');
+	font-weight: 700;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'HCo Gotham';
+	src:url('../fonts/3dRBVJE5k209.woff2') format('woff2'),
+		url('../fonts/bS6eOUhLW4wU.woff') format('woff');
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HCo Gotham';
+	src:url('../fonts/9KVpalH6ru63.woff2') format('woff2'),
+		url('../fonts/26BLr03WpbVq.woff') format('woff');
+	font-weight: 800;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'HCo Gotham';
+	src:url('../fonts/LBNN6CEbjeT4.woff2') format('woff2'),
+		url('../fonts/kNCzg6ZPenQy.woff') format('woff');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HCo Gotham';
+	src:url('../fonts/rrOSiohNltn3.woff2') format('woff2'),
+		url('../fonts/8bXfB0fFdWeS.woff') format('woff');
+	font-weight: 900;
+	font-style: italic;
+}
+
+/* */
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/vDTLI8m3X1mH.eot');
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'),
+        url('../fonts/vDTLI8m3X1mH.eot#iefix') format('embedded-opentype'),
+        url('../fonts/KyrixB1WNUFC.woff') format('woff'),
+        url('../fonts/QXeMSKPOxO9C.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+		unicode-range: U+20BA;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/603XsMchbY5i.eot');
+    src: local('Roboto Italic'), local('Roboto-Italic'),
+        url('../fonts/603XsMchbY5i.eot#iefix') format('embedded-opentype'),
+        url('../fonts/8ukEh6xJSokC.woff') format('woff'),
+        url('../fonts/HDim5qnszAS4.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+		unicode-range: U+20BA;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/OpeZHurvgN4U.eot');
+    src: local('Roboto Bold'), local('Roboto-Bold'),
+        url('../fonts/OpeZHurvgN4U.eot#iefix') format('embedded-opentype'),
+        url('../fonts/G7UTVBJ602Gd.woff') format('woff'),
+        url('../fonts/R6kkAKm7nehe.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+		unicode-range: U+20BA;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/lCFp0xu1d3Xa.eot');
+    src: local('Roboto'), local('Roboto-Regular'),
+        url('../fonts/lCFp0xu1d3Xa.eot#iefix') format('embedded-opentype'),
+        url('../fonts/nJuMdEQzdsIN.woff') format('woff'),
+        url('../fonts/zmfSRVz5bXKh.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+		unicode-range: U+20BA;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/mZNCGzvhGpGm.eot');
+    src: local('Roboto Medium'), local('Roboto-Medium'),
+        url('../fonts/mZNCGzvhGpGm.eot#iefix') format('embedded-opentype'),
+        url('../fonts/L4lnMzVI3kuS.woff') format('woff'),
+        url('../fonts/HwhYIn7jrynJ.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+		unicode-range: U+20BA;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/zTFLS6aSzXhJ.eot');
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'),
+        url('../fonts/zTFLS6aSzXhJ.eot#iefix') format('embedded-opentype'),
+        url('../fonts/14WYxpAu316T.woff') format('woff'),
+        url('../fonts/0TXwwtSYqzYe.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+		unicode-range: U+20BA;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/yekxw11lXwHX.eot');
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'),
+        url('../fonts/yekxw11lXwHX.eot#iefix') format('embedded-opentype'),
+        url('../fonts/4Vei8w3IxBUe.woff') format('woff'),
+        url('../fonts/BdiyvPHFzmtK.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+		unicode-range: U+20BA;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Wcl8VwjJoVHC.eot');
+    src: local('Roboto Black'), local('Roboto-Black'),
+        url('../fonts/Wcl8VwjJoVHC.eot#iefix') format('embedded-opentype'),
+        url('../fonts/htEWjCRZnBd7.woff') format('woff'),
+        url('../fonts/qxkbK93SxzNv.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+		unicode-range: U+20BA;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/MTdnj9g4Q8an.eot');
+    src: local('Roboto Light'), local('Roboto-Light'),
+        url('../fonts/MTdnj9g4Q8an.eot#iefix') format('embedded-opentype'),
+        url('../fonts/sIQyLvf7ToGC.woff') format('woff'),
+        url('../fonts/j4px4zkYYkX6.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+		unicode-range: U+20BA;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/h0sKCT7R9Jix.eot');
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'),
+        url('../fonts/h0sKCT7R9Jix.eot#iefix') format('embedded-opentype'),
+        url('../fonts/iG4njwzpDLLM.woff') format('woff'),
+        url('../fonts/V7fAohFRHo9O.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+		unicode-range: U+20BA;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/XXvYesbRmQTH.eot');
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'),
+        url('../fonts/XXvYesbRmQTH.eot#iefix') format('embedded-opentype'),
+        url('../fonts/RBgGPe1HCMy2.woff') format('woff'),
+        url('../fonts/LRixAaGiIhZa.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+		unicode-range: U+20BA;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/IcTljiRO6pdo.eot');
+    src: local('Roboto Thin'), local('Roboto-Thin'),
+        url('../fonts/IcTljiRO6pdo.eot#iefix') format('embedded-opentype'),
+        url('../fonts/qfrUfAx11uYx.woff') format('woff'),
+        url('../fonts/e37BG2xHt4ps.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+		unicode-range: U+20BA;
+}
+
+/* By > www.userali.ir */
